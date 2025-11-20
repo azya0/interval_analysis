@@ -235,7 +235,7 @@ df_f2 = pd.DataFrame(data_f2, columns=["Метод", "Интервал", "rad_es
 
 print("\n=== f1(x) = x^3 - 3x^2 + 2 ===")
 print(df_f1)
-print("\n=== f2(x) = x^5 -5x + sin(x) ===")
+print("\n=== f2(x) = e^x - 2x - 2 ===")
 print(df_f2)
 
 # -----------------------------
